@@ -2,7 +2,7 @@
 
 ## 📘 Overview
 This project demonstrates the creation of an **interactive business dashboard** using Tableau Public.  
-It uses the **Sample - Superstore** dataset to visualize key performance metrics such as **Sales, Profit, and Profit Ratio** across categories, segments, and geographic regions.
+It utilizes the **Sample - Superstore** dataset to visualize key performance metrics, including **Sales, Profit, and Profit Ratio**, across categories, segments, and geographic regions.
 
 Through this project, I learned foundational Tableau concepts, including:
 - Connecting and relating multiple data tables
@@ -37,9 +37,16 @@ Through this project, I learned foundational Tableau concepts, including:
 
 
 5. Visualized Sales Trends by Category and Segment using area plots (continuous).
-   - By category
 <img width="1920" height="910" alt="Screenshot 2025-10-23 143818" src="https://github.com/user-attachments/assets/3e0f8789-3214-4e9c-a9fb-6e35ee9fee4b" />
 <img width="1920" height="909" alt="Screenshot 2025-10-23 143912" src="https://github.com/user-attachments/assets/f74308b9-4204-4bf8-8714-5fbe8e82b9f7" />
 
    - created a Level of Detail (LOD) expression to find if the orders are profitable or not
 <img width="1920" height="889" alt="Screenshot 2025-10-23 153135" src="https://github.com/user-attachments/assets/eeac285c-99f8-405d-a0b9-d278995bf1a3" />
+Sales by Category
+<img width="1920" height="881" alt="Screenshot 2025-10-23 161213" src="https://github.com/user-attachments/assets/b295e63b-6605-473e-b171-53a3ca5d2aed" />
+Sales by Segment (with filter)
+<img width="1920" height="875" alt="Screenshot 2025-10-23 161901" src="https://github.com/user-attachments/assets/73174fa2-f51f-48d7-adaa-b26ce48b10ff" />
+
+
+
+
