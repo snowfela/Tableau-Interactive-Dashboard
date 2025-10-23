@@ -60,3 +60,6 @@ Sales by Segment (with filter)
 - then this sheet is added to the tooltip
    <img width="1920" height="881" alt="Screenshot 2025-10-23 171053" src="https://github.com/user-attachments/assets/15952bf4-2a91-4adf-96c4-fd756c049313" />
 
+
+7. Combined all visualizations into a fully interactive dashboard.
+   <img width="1920" height="978" alt="Screenshot 2025-10-23 175907" src="https://github.com/user-attachments/assets/9017a142-a464-4e14-ae4a-d8da8cb0b97a" />
